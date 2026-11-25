@@ -1,0 +1,22 @@
+[
+  {
+    "id": "chocolate-classic-50",
+    "name": "Chocolate Bar Classic",
+    "mood": "sweet",
+    "type": "bar",
+    "size": "50g",
+    "price": 89,
+    "image": "images/classic.jpg",
+    "description": "ช็อกโกแลตแท่งรส Classic หอมหวานกลมกล่อม ละลายในปากนุ่มละมุน"
+  },
+  {
+    "id": "chocolate-rich-50",
+    "name": "Chocolate Bar Rich",
+    "mood": "confident",
+    "type": "bar",
+    "size": "50g",
+    "price": 99,
+    "image": "images/rich.jpg",
+    "description": "ช็อกโกแลตแท่งรส Rich เข้มข้นลึก ให้รสโกโก้เต็มคำ จบด้วยความขมนุ่มๆ"
+  }
+]
